@@ -1,0 +1,16 @@
+.vclick{
+    margin-top: 10px;
+}
+
+body{
+    background-image: url(Cloudy.jpg);
+}
+
+.main-form{
+   text-align: center;
+}
+
+.cloud-label{
+    color: white;
+    font-size: large;
+}
